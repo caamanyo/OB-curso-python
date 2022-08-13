@@ -11,9 +11,6 @@ def main():
         def __init__(self):
             print(f'Fecha: {self.fecha}')
             print(f'Hora: {self.hora}')
-            print(self.hours_to_freedom)
-            print(self.min_to_freedom)
-            print(self.sec_to_freedom)
             print(self.fin_jornada())
         
         def fin_jornada(self):
