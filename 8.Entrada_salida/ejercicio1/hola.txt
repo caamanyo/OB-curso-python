@@ -1,1 +1,3 @@
 Esto es un archivo de texto.
+Esta es la siguiente linea del archivo.
+Última línea.
